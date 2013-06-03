@@ -15,20 +15,29 @@
 </metadata>
   <manifest>
     <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
-    <item href="Pictures/100000000000001C00000012BCDBF27F.png" id="id11" media-type="image/png"/>
-    <item href="Pictures/10000000000000260000001BD518668D.jpg" id="id3" media-type="image/jpeg"/>
-    <item href="Pictures/100000000000002A00000012B96656A1.png" id="id12" media-type="image/png"/>
-    <item href="Pictures/100000000000002D000000278E19E734.png" id="id7" media-type="image/png"/>
-    <item href="Pictures/100000000000005200000052E101EAFF.png" id="id5" media-type="image/png"/>
-    <item href="Pictures/100000000000008800000060C9F8E122.png" id="id10" media-type="image/png"/>
-    <item href="Pictures/1000000000000280000001E0DEF1E005.png" id="id6" media-type="image/png"/>
-    <item href="Pictures/1000000000000287000001F8697F0DDD.png" id="id9" media-type="image/png"/>
-    <item href="Pictures/10000200000000580000001FC088875E.png" id="id4" media-type="image/png"/>
-    <item href="index_split_000.xhtml" id="id24" media-type="application/xhtml+xml"/>
-    <item href="index_split_001.xhtml" id="id23" media-type="application/xhtml+xml"/>
-    <item href="index_split_002.xhtml" id="id22" media-type="application/xhtml+xml"/>
-    <item href="index_split_003.xhtml" id="id21" media-type="application/xhtml+xml"/>
-    <item href="index_split_004.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Pictures/100000000000001C00000012BCDBF27F.png" id="id1011" media-type="image/png"/>
+    <item href="Pictures/10000000000000260000001BD518668D.jpg" id="id1003" media-type="image/jpeg"/>
+    <item href="Pictures/100000000000002A00000012B96656A1.png" id="id1012" media-type="image/png"/>
+    <item href="Pictures/100000000000002D000000278E19E734.png" id="id1007" media-type="image/png"/>
+    <item href="Pictures/100000000000005200000052E101EAFF.png" id="id1005" media-type="image/png"/>
+    <item href="Pictures/100000000000008800000060C9F8E122.png" id="id1000" media-type="image/png"/>
+    <item href="Pictures/1000000000000280000001E0DEF1E005.png" id="id1006" media-type="image/png"/>
+    <item href="Pictures/1000000000000287000001F8697F0DDD.png" id="id1009" media-type="image/png"/>
+    <item href="Pictures/10000200000000580000001FC088875E.png" id="id1004" media-type="image/png"/>
+    <item href="index_split_000.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.xhtml" id="id13" media-type="application/xhtml+xml"/>
     <item href="page_styles.css" id="page_css" media-type="text/css"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
@@ -36,11 +45,20 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
-    <itemref idref="id24"/>
-    <itemref idref="id23"/>
-    <itemref idref="id22"/>
-    <itemref idref="id21"/>
-    <itemref idref="id25"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>    
   </spine>
   <guide>
     <reference href="titlepage.xhtml" type="cover" title="Cover"/>
