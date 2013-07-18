@@ -638,9 +638,9 @@
     font-family: "Times New Roman", serif;
     font-size: 62pt;
     font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 1em;
-    margin-left: -1.905cm;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-left: 0;
     margin-right: 0;
     margin-top: 1em;
     padding-bottom: 0;
@@ -822,8 +822,8 @@
     font-family: "Times New Roman", serif;
     font-size: 12pt;
     font-style: italic;
-    margin-bottom: 1em;
-    margin-left: -1.905cm;
+    margin-bottom: 2em;
+    margin-left: 0;
     margin-right: 0;
     margin-top: 1em;
     padding-bottom: 0;
@@ -982,7 +982,7 @@
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
-    text-align: justify
+    text-align: center
     }
 .P-P39 {
     background-color: white;
@@ -1185,11 +1185,11 @@
     display: block;
     font-family: "Times New Roman", serif;
     font-size: 24pt;
-    line-height: 1.2;
-    margin-bottom: 1em;
-    margin-left: -1.905cm;
+    line-height: 1;
+    margin-bottom: 1em;    
+    margin-left: 0;
     margin-right: 0;
-    margin-top: 1em;
+    margin-top: 0;
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;

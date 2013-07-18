@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>muso.fobia</dc:title>
+    <dc:creator file-as="Harmodio, Jorge" opf:role="aut">Jorge Harmodio</dc:creator>
+    <dc:language>es</dc:language>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:5a171c0-eafd-11e2-91e2-0800200c9a66</dc:identifier>
+    <dc:publisher>www.malversando.com</dc:publisher>
+    <meta content="cover.jpg" name="cover" />
+    <meta content="2.0" name="Open source" />
+   </metadata>
+   <manifest>
+   	<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+   	<item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+   	<item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_000.xhtml" id="musofobia_split_000.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_001.xhtml" id="musofobia_split_001.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_002.xhtml" id="musofobia_split_002.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_003.xhtml" id="musofobia_split_003.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_003bis.xhtml" id="musofobia_split_003bis.xhtml" media-type="application/xhtml+xml" />
+   	<item href="Text/musofobia_split_004.xhtml" id="musofobia_split_004.xhtml" media-type="application/xhtml+xml" />
+   </manifest>
+   <spine toc="ncx">
+   	<itemref idref="titlepage.xhtml"/>
+   	<itemref idref="musofobia_split_000.xhtml"/>
+   	<itemref idref="musofobia_split_001.xhtml"/>
+   	<itemref idref="musofobia_split_002.xhtml"/>
+   	<itemref idref="musofobia_split_003.xhtml"/>
+   	<itemref idref="musofobia_split_003bis.xhtml"/>
+   	<itemref idref="musofobia_split_004.xhtml"/>
+   </spine>
+   <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

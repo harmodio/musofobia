@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="5a171c0-eafd-11e2-91e2-0800200c9a66" name="dtb:uid"/>
+        <meta content="3" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Musofobia</text>
+    </docTitle>
+    <navMap>
+    			<navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>créditos</text>
+            </navLabel>
+            <content src="Text/musofobia_split_000.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>dedicatoria</text>
+            </navLabel>
+            <content src="Text/musofobia_split_001.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>epígrafe</text>
+            </navLabel>
+            <content src="Text/musofobia_split_002.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>sábado, nidito.de.amor (21/mar/05/6:30)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_003.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>    

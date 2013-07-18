@@ -1,0 +1,30 @@
+cambianombre.sh
+mv index_split_000.xhtml musofobia_split_000.xhtml
+mv index_split_001.xhtml musofobia_split_001.xhtml
+mv index_split_002.xhtml musofobia_split_002.xhtml
+mv index_split_003bis.xhtml musofobia_split_003bis.xhtml
+mv index_split_003.xhtml musofobia_split_003.xhtml
+mv index_split_004.xhtml musofobia_split_004.xhtml
+mv index_split_005.xhtml musofobia_split_005.xhtml
+mv index_split_006.xhtml musofobia_split_006.xhtml
+mv index_split_007.xhtml musofobia_split_007.xhtml
+mv index_split_008.xhtml musofobia_split_008.xhtml
+mv index_split_009.xhtml musofobia_split_009.xhtml
+mv index_split_010.xhtml musofobia_split_010.xhtml
+mv index_split_011.xhtml musofobia_split_011.xhtml
+mv index_split_012.xhtml musofobia_split_012.xhtml
+mv index_split_013.xhtml musofobia_split_013.xhtml
+mv index_split_014.xhtml musofobia_split_014.xhtml
+mv index_split_015.xhtml musofobia_split_015.xhtml
+mv index_split_016.xhtml musofobia_split_016.xhtml
+mv index_split_017.xhtml musofobia_split_017.xhtml
+mv index_split_018.xhtml musofobia_split_018.xhtml
+mv index_split_019.xhtml musofobia_split_019.xhtml
+mv index_split_020.xhtml musofobia_split_020.xhtml
+mv index_split_021.xhtml musofobia_split_021.xhtml
+mv index_split_022.xhtml musofobia_split_022.xhtml
+mv index_split_023.xhtml musofobia_split_023.xhtml
+mv index_split_099.xhtml musofobia_split_099.xhtml
+mv index_split_100.xhtml musofobia_split_100.xhtml
+indice.xhtml
+titlepage.xhtml

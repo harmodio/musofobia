@@ -1,17 +1,14 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:creator opf:role="aut" opf:file-as="Jorge">Jorge</dc:creator>
-<meta name="calibre:title_sort" content="muso.fobia"/>
-    <meta name="calibre:timestamp" content="2013-05-15T10:13:52+00:00"/>
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>muso.fobia</dc:title>
-    <meta name="cover" content="cover"/>
-    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-    <dc:contributor opf:role="bkp">calibre (0.8.69) [http://calibre-ebook.com]</dc:contributor>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">b77e8819-6275-40e8-b0d4-15600d6e3ed1</dc:identifier>
-  <meta name="calibre:user_categories" content="{}"/>
-<meta name="calibre:author_link_map" content="{&quot;Jorge&quot;: &quot;&quot;}"/>
-<dc:language>fr</dc:language>
+    <dc:creator file-as="Harmodio, Jorge" opf:role="aut">Jorge Harmodio</dc:creator>
+    <dc:language>es</dc:language>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:5a171c0-eafd-11e2-91e2-0800200c9a66</dc:identifier>
+    <dc:publisher>www.malversando.com</dc:publisher>
+    <meta content="cover.jpg" name="cover" />    
+  </metadata>
 </metadata>
   <manifest>
     <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
@@ -25,12 +22,20 @@
     <item href="Pictures/1000000000000287000001F8697F0DDD.png" id="id1009" media-type="image/png"/>
     <item href="Pictures/10000200000000580000001FC088875E.png" id="id1004" media-type="image/png"/>
     <item href="Pictures/1000000000000280000001E0DEF1E005petite.png" id="id1013" media-type="image/png"/>
-		 <item href="Pictures/1000000000000280000001E0DEF1E005toutepetite.png" id="id1014" media-type="image/png"/>
+		 <item href="Pictures/1000000000000280000001E0DEF1E005toutepetite.png" id="id1014" media-type="image/png"/>		 
 		 <item href="Pictures/laotra.png" id="id1015" media-type="image/png"/>
+		 <item href="Pictures/postit1_small.png" id="id1016" media-type="image/png"/>
+		 <item href="Pictures/postit2.png" id="id1017" media-type="image/png"/>		 
+		 <item href="Pictures/postit3.png" id="id1018" media-type="image/png"/>
+		 <item href="Pictures/postit4.png" id="id1019" media-type="image/png"/>
+		 <item href="Pictures/mouseicon.png" id="id1020" media-type="image/png"/>
+		 <item href="Pictures/iconmouse.png" id="id1021" media-type="image/png"/>
+		 <item href="" id="id1022" media-type="image/png"/>		 		 		 		 		 		 
     <item href="index_split_000.xhtml" id="id0" media-type="application/xhtml+xml"/>
     <item href="index_split_001.xhtml" id="id1" media-type="application/xhtml+xml"/>
     <item href="index_split_002.xhtml" id="id2" media-type="application/xhtml+xml"/>
     <item href="index_split_003.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="index_split_003bis.xhtml" id="id3bis" media-type="application/xhtml+xml"/>
     <item href="index_split_004.xhtml" id="id4" media-type="application/xhtml+xml"/>
     <item href="index_split_005.xhtml" id="id5" media-type="application/xhtml+xml"/>
     <item href="index_split_006.xhtml" id="id6" media-type="application/xhtml+xml"/>
@@ -46,6 +51,12 @@
     <item href="index_split_016.xhtml" id="id16" media-type="application/xhtml+xml"/>
     <item href="index_split_017.xhtml" id="id17" media-type="application/xhtml+xml"/>
     <item href="index_split_018.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_019.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_020.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="index_split_021.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="index_split_022.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_023.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="indice.xhtml" id="id24" media-type="application/xhtml+xml"/>
     <item href="page_styles.css" id="page_css" media-type="text/css"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
@@ -57,6 +68,7 @@
     <itemref idref="id1"/>
     <itemref idref="id2"/>
     <itemref idref="id3"/>
+    <itemref idref="id3bis"/>
     <itemref idref="id4"/>
     <itemref idref="id5"/>
     <itemref idref="id6"/>
@@ -72,6 +84,12 @@
     <itemref idref="id16"/>  
     <itemref idref="id17"/>
     <itemref idref="id18"/>        
+    <itemref idref="id19"/>  
+    <itemref idref="id20"/>  
+    <itemref idref="id21"/>  
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
   </spine>
   <guide>
     <reference href="titlepage.xhtml" type="cover" title="Cover"/>
