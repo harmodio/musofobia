@@ -34,5 +34,29 @@
             </navLabel>
             <content src="Text/musofobia_split_003.xhtml"/>
         </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>Fractura doble</text>
+            </navLabel>
+            <content src="Text/musofobia_split_003bis.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>martes, fer.à.moulin (25/mar/05/10:29)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_004.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>Incendiaria</text>
+            </navLabel>
+            <content src="Text/musofobia_split_005.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>(domingo, alcoba.matrimonial.sola, 10/abr/05/21:32/[...])</text>
+            </navLabel>
+            <content src="Text/musofobia_split_006.xhtml"/>
+        </navPoint>
     </navMap>
 </ncx>    

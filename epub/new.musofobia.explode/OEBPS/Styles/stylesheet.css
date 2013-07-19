@@ -26,6 +26,14 @@
     margin-right: 0;
     margin-top: 1em
     }
+.calibre2-def {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    font-family: "Courier New", monospace;
+    }
 .calibre3 {
     display: block;
     list-style-type: disc;
