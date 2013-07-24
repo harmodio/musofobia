@@ -36,7 +36,7 @@
         </navPoint>
         <navPoint id="navPoint-5" playOrder="5">
             <navLabel>
-                <text>Fractura doble</text>
+                <text>fractura.doble</text>
             </navLabel>
             <content src="Text/musofobia_split_003bis.xhtml"/>
         </navPoint>
@@ -48,7 +48,7 @@
         </navPoint>
         <navPoint id="navPoint-7" playOrder="7">
             <navLabel>
-                <text>Incendiaria</text>
+                <text>incendiaria</text>
             </navLabel>
             <content src="Text/musofobia_split_005.xhtml"/>
         </navPoint>
@@ -57,6 +57,78 @@
                 <text>(domingo, alcoba.matrimonial.sola, 10/abr/05/21:32/[...])</text>
             </navLabel>
             <content src="Text/musofobia_split_006.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>foto.epanáfora</text>
+            </navLabel>
+            <content src="Text/musofobia_split_007.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>sábado.alcoba.matrimonial.sola (16/abr/05/15:52)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_008.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>cuentista.de.Hamelin</text>
+            </navLabel>
+            <content src="Text/musofobia_split_009.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>sin.lugar, sin.fecha</text>
+            </navLabel>
+            <content src="Text/musofobia_split_010.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>poca.pena</text>
+            </navLabel>
+            <content src="Text/musofobia_split_011.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>decadi, ex.nidito.de.amor (30/germinal/CCXIII/5:24)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_012.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>virgen.del.estereograma</text>
+            </navLabel>
+            <content src="Text/musofobia_split_013.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>septidi, piedad.salitrería (7/floreal/CCXIII/?)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_014.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>nombre.al.agua</text>
+            </navLabel>
+            <content src="Text/musofobia_split_015.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>quartidi, ex.nidito.de.amor (24/floreal/CCXIII/10:01)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_016.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>la.virgen.del.volkswagen</text>
+            </navLabel>
+            <content src="Text/musofobia_split_017.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>miércoles, molino.verde (25/may/05/9:33)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_018.xhtml"/>
         </navPoint>
     </navMap>
 </ncx>    

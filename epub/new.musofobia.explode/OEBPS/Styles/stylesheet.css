@@ -19,6 +19,15 @@
     margin-top: 0.67em;
     page-break-before: always
     }
+.calibre1-intexto {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em    
+    }
 .calibre2 {
     display: block;
     margin-bottom: 1em;
@@ -26,13 +35,22 @@
     margin-right: 0;
     margin-top: 1em
     }
-.calibre2-def {
+.calibre2-enfasis {
     display: block;
+    font-style: italic;
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
     margin-top: 1em
-    font-family: "Courier New", monospace;
+    }    
+.calibre2-definicion {
+    display: block;
+    font-family: "Courier New", sans-serif; 
+    font-size: 0.8em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
     }
 .calibre3 {
     display: block;

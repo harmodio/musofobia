@@ -20,7 +20,19 @@
    	<item href="Text/musofobia_split_003bis.xhtml" id="musofobia_split_003bis.xhtml" media-type="application/xhtml+xml" />
    	<item href="Text/musofobia_split_004.xhtml" id="musofobia_split_004.xhtml" media-type="application/xhtml+xml" />
 			<item href="Text/musofobia_split_005.xhtml" id="musofobia_split_005.xhtml" media-type="application/xhtml+xml" />  
-			<item href="Text/musofobia_split_006.xhtml" id="musofobia_split_006.xhtml" media-type="application/xhtml+xml" />  
+			<item href="Text/musofobia_split_006.xhtml" id="musofobia_split_006.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_007.xhtml" id="musofobia_split_007.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_008.xhtml" id="musofobia_split_008.xhtml" media-type="application/xhtml+xml" /> 
+			<item href="Text/musofobia_split_009.xhtml" id="musofobia_split_009.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_010.xhtml" id="musofobia_split_010.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_011.xhtml" id="musofobia_split_011.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_012.xhtml" id="musofobia_split_012.xhtml" media-type="application/xhtml+xml" /> 
+			<item href="Text/musofobia_split_013.xhtml" id="musofobia_split_013.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_014.xhtml" id="musofobia_split_014.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_015.xhtml" id="musofobia_split_015.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_016.xhtml" id="musofobia_split_016.xhtml" media-type="application/xhtml+xml" /> 
+			<item href="Text/musofobia_split_017.xhtml" id="musofobia_split_017.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_018.xhtml" id="musofobia_split_018.xhtml" media-type="application/xhtml+xml" />
    </manifest>
    <spine toc="ncx">
    	<itemref idref="titlepage.xhtml"/>
@@ -32,6 +44,18 @@
    	<itemref idref="musofobia_split_004.xhtml"/>
    	<itemref idref="musofobia_split_005.xhtml"/>
    	<itemref idref="musofobia_split_006.xhtml"/>
+   	<itemref idref="musofobia_split_007.xhtml"/>
+   	<itemref idref="musofobia_split_008.xhtml"/>
+   	<itemref idref="musofobia_split_009.xhtml"/>
+   	<itemref idref="musofobia_split_010.xhtml"/>
+   	<itemref idref="musofobia_split_011.xhtml"/>
+   	<itemref idref="musofobia_split_012.xhtml"/>
+   	<itemref idref="musofobia_split_013.xhtml"/>
+   	<itemref idref="musofobia_split_014.xhtml"/>
+   	<itemref idref="musofobia_split_015.xhtml"/>
+   	<itemref idref="musofobia_split_016.xhtml"/>
+   	<itemref idref="musofobia_split_017.xhtml"/>
+   	<itemref idref="musofobia_split_018.xhtml"/>
    </spine>
    <guide>
     <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
