@@ -33,6 +33,12 @@
 			<item href="Text/musofobia_split_016.xhtml" id="musofobia_split_016.xhtml" media-type="application/xhtml+xml" /> 
 			<item href="Text/musofobia_split_017.xhtml" id="musofobia_split_017.xhtml" media-type="application/xhtml+xml" />
 			<item href="Text/musofobia_split_018.xhtml" id="musofobia_split_018.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_019.xhtml" id="musofobia_split_019.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_020.xhtml" id="musofobia_split_020.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_021.xhtml" id="musofobia_split_021.xhtml" media-type="application/xhtml+xml" /> 
+			<item href="Text/musofobia_split_022.xhtml" id="musofobia_split_022.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_023.xhtml" id="musofobia_split_023.xhtml" media-type="application/xhtml+xml" />
+			<item href="Text/musofobia_split_024.xhtml" id="musofobia_split_024.xhtml" media-type="application/xhtml+xml" />
    </manifest>
    <spine toc="ncx">
    	<itemref idref="titlepage.xhtml"/>
@@ -56,6 +62,12 @@
    	<itemref idref="musofobia_split_016.xhtml"/>
    	<itemref idref="musofobia_split_017.xhtml"/>
    	<itemref idref="musofobia_split_018.xhtml"/>
+   	<itemref idref="musofobia_split_019.xhtml"/>
+   	<itemref idref="musofobia_split_020.xhtml"/>
+   	<itemref idref="musofobia_split_021.xhtml"/>
+   	<itemref idref="musofobia_split_022.xhtml"/>
+   	<itemref idref="musofobia_split_023.xhtml"/>
+   	<itemref idref="musofobia_split_024.xhtml"/>
    </spine>
    <guide>
     <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />

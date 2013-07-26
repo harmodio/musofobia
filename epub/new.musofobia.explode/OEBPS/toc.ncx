@@ -130,5 +130,41 @@
             </navLabel>
             <content src="Text/musofobia_split_018.xhtml"/>
         </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>noche.amaranta</text>
+            </navLabel>
+            <content src="Text/musofobia_split_019.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>jueves, ex.nidito.de.amor (1/jun/05) </text>
+            </navLabel>
+            <content src="Text/musofobia_split_020.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>y.dios.creó.el.blog</text>
+            </navLabel>
+            <content src="Text/musofobia_split_021.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>sábado, línea.1 (11/jun/05/18:47)</text>
+            </navLabel>
+            <content src="Text/musofobia_split_022.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>página.doscientos.doce</text>
+            </navLabel>
+            <content src="Text/musofobia_split_023.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>Índice</text>
+            </navLabel>
+            <content src="Text/musofobia_split_024.xhtml"/>
+        </navPoint>
     </navMap>
 </ncx>    

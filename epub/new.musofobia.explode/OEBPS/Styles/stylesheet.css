@@ -35,6 +35,14 @@
     margin-right: 0;
     margin-top: 1em
     }
+.calibre2-heroes {
+    display: block;
+    font-size: 0.8em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
 .calibre2-enfasis {
     display: block;
     font-style: italic;
@@ -54,6 +62,7 @@
     }
 .calibre3 {
     display: block;
+    font-size: 0.8em;
     list-style-type: disc;
     margin-bottom: 1em;
     margin-left: 0;
